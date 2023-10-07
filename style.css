@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+nav a {
+    text-decoration: none;
+}
+li {
+    display: inline-flex;
+    font-family: robot, sans-serif;
+    padding: 10px;
+    
+}
+body {
+    color: black;
+}
+li:hover {
+    color: blue;
+    background-color: brown;
+}
+body {
+    background-color: bisque;
+}
+form {
+    border: 2px solid;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
